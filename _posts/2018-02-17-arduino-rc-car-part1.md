@@ -6,7 +6,7 @@ categories:
 - arduino
 tags:
 - 아두이노
-- RC-car
+- RC카
 ---
 
 아두이노로 RC 카 만들기 첫 번째로 오늘은 차체를 조립하겠습니다.
@@ -15,13 +15,13 @@ tags:
 
 ### 필요한 부품들
 
-우선 차체의 뼈대가 되어 줄 아크릴 판을 구입했습니다. 3D 프린터로 만들까 고민을 거듭했다가 저렴한 키트를 발견하여 구입하게 되었습니다. 이 키트에는 엔코더 디스크만 들어 있고 센서 모듈이 포함되어 있지 않기 때문에 추가로 엔코더 센서를 두 개 샀습니다. 다른 부품들은 이미 가지고 있던 것을 다시 사용하였습니다.
+우선 차체의 뼈대가 되어 줄 아크릴 판을 구입했습니다. 3D 프린터로 만들까 고민을 거듭했다가 저렴한 키트를 발견하여 구입하게 되었습니다. 이 키트에는 엔코더 디스크만 들어 있고 센서 모듈이 포함되어 있지 않기 때문에 추가로 엔코더 센서 두 개가 들어있는 제품을 샀습니다. 다른 부품들은 이미 가지고 있던 것을 다시 사용하였습니다.
 
 부품 | 수량 | 가격 | 구입처
 아두이노 우노 R3 호환 보드 | 1 | 6,160원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71796)
 L298N 모터 드라이버 | 1 | 2,640원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=1221)
 아두이노 로봇 2WD 프레임 키트 | 1 | 6,600원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=329290)
-HC-020K 모바일로봇 스피드 측정 엔코더 모듈 | 2 | 5,500원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=10657)
+HC-020K 모바일로봇 스피드 측정 엔코더 모듈 2개 | 1 | 5,500원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=10657)
 
 ### 3d 프린트
 
@@ -29,7 +29,7 @@ HC-020K 모바일로봇 스피드 측정 엔코더 모듈 | 2 | 5,500원 | [메�
 
 ### 참고 영상
 
-[비슷한 프레임 키트 조립 영상](https://www.youtube.com/watch?v=p8PouSmxOQY "프레임 키트 조립 영상 (영어 주의)")을 참고할 시 쉽게 조립할 수 있습니다.
+[비슷한 프레임 키트 조립 영상](https://www.youtube.com/watch?v=p8PouSmxOQY "프레임 키트 조립 영상 (영어 주의)")을 참고하세요.
 
 ## 프레임 키트 조립하기
 
