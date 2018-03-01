@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "MyoungJin Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/IMG_E2111.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "언제까지 LED만 깜박일 텐가" # "I am an amazing person."
   location         : "Seoul, Korea"
   email            :
