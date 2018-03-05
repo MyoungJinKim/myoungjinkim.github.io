@@ -18,14 +18,18 @@ tags:
 우선 차체의 뼈대가 되어 줄 아크릴 판을 구입했습니다. 3D 프린터로 만들까 고민을 거듭했다가 저렴한 키트를 발견하여 구입하게 되었습니다. 이 키트에는 엔코더 디스크만 들어 있고 센서 모듈이 포함되어 있지 않기 때문에 추가로 엔코더 센서 두 개가 들어있는 제품을 샀습니다. 다른 부품들은 이미 가지고 있던 것을 다시 사용하였습니다.
 
 부품 | 수량 | 가격 | 구입처
-아두이노 우노 R3 호환 보드 | 1 | 6,160원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71796)
+아두이노 우노 R3 호환 보드 | 2 | 6,160원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71796)
 L298N 모터 드라이버 | 1 | 2,640원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=1221)
 아두이노 로봇 2WD 프레임 키트 | 1 | 6,600원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=329290)
 HC-020K 모바일로봇 스피드 측정 엔코더 모듈 2개 | 1 | 5,500원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=10657)
+아두이노 조이스틱 모듈 | 1 | 690원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=712)
+블루투스4.0 BLE HM-10 모듈 | 2 | 15,400원 | [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=330423)
 
 ### 3d 프린트
 
 아두이노 우노와 L298N 모터드라이버를 차체에 연결하기 위해 3d 프린터를 이용해 마운트를 인쇄하였습니다. Thingiverse에 올라와 있는 [아두이노 우노와 L298N 모터 DC 마운트](https://www.thingiverse.com/thing:2182277)를 사용하였습니다.
+
+또한 조이스틱을 잡고 조정하기 편하도록 3D 프린터로 조이스틱 케이스를 만들어 조립하였습니다. [Thingiverse](https://www.thingiverse.com/)에 올라와 있는 [Mini Joystick Housing](https://www.thingiverse.com/thing:700346)을 인쇄하여 사용하였습니다. 
 
 ### 참고 영상
 
