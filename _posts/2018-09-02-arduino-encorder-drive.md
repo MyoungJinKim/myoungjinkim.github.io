@@ -1,5 +1,5 @@
 ---
-title: 아두이노 인코더를 이용해 자동차 움직이기
+title: 아두이노 인코더를 이용해 일정한 거리 보내기
 date: 2018-9-02
 categories: 
 - arduino
