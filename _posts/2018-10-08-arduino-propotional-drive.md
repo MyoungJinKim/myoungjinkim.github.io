@@ -1,5 +1,5 @@
 ---
-title: 아두이노 RC키 똑바로 보내기 첫 번째 - 비례 제어기
+title: 아두이노 RC카 똑바로 보내기 첫 번째 - 비례 제어기
 date: 2018-10-06
 categories: 
 - arduino
