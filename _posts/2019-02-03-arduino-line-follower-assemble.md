@@ -17,9 +17,10 @@ tags:
 이전 '장애물 피하기 로봇 만들기' 프로젝트에서 사용했던 차체 프레임을 사용하였습니다. 다만, 초음파 센서 등 이번 프로젝트에 필요없는 부품들을 제거하였고 TCRT5000을 추가하였습니다. 또한, 이전 프로젝트에서 알았냈던 인코더의 결함을 해결하기 위해 모터를 마이크로 기어드 DC 모터로 교체하였습니다.
 
 TCRT5000 또는 마이크로 기어드 DC 모터에 대한 더 자세한 정보는 다음 링크를 참고해주시기 바랍니다.
+
 부품 | 포스트
-TCRT5000 | [TCRT5000](https://myoungjinkim.github.io/arduino/arduino-TCRT5000/)
-마이크로 기어드 DC 모터 | [직각위상인코더] (https://myoungjinkim.github.io/arduino/arduino-encoder-motor/)
+TCRT5000 | [아두이노 라인 트레이서 TCRT5000 사용하기]({{ site.url }}//arduino/arduino-TCRT5000/)
+마이크로 기어드 DC 모터 | [아두이노 직각 위상 인코더(quadrature encoder) 모터 사용하기]({{ site.url }}//arduino/arduino-encoder-motor/)
 
 ## 차체 조립
 
